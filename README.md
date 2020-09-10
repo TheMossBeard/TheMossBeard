@@ -1,18 +1,11 @@
-#### :godmode: About Me  
-Senior at Oregon Institute of Technology working towards a B.S. in Computer Software Engineering. 
+<dl> 
+  <dt>:godmode: About Me</dt> 
+  <dd>Senior at Oregon Institute of Technology working towards a B.S. in Computer Software Engineering.</dd>
+  <dd>Working/Internship at Edstaub & Son's Petroleum in Klamath Falls, Oregon.</dd>
 
-Working/Internship at Edstaub & Son's Petroleum in Klamath Falls, Oregon. 
-
-#### :feelsgood: Currently Working On
-Spelling Blocks, Android application using Monogame framework. Educational "game" targeting children between ages 3 - 8.
-
-Personal website using Vue.js, Node.js, MongoDB
-
-#### :envelope: Contact Me 
-[<img align="left" alt="beard_moss | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="beard_moss | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+  <dt> :feelsgood: Currently Working On</dt>
+    <dd>Spelling Blocks, Android application using Monogame framework. Educational "game" targeting children between ages 3 - 8.</dd>
+    <dd>Personal website using Vue.js, Node.js, MongoDB</dd>
+</dl> 
 
 
-
-[twitter]: https://twitter.com/beard_moss
-[gmail]: <mailto:jessew529@gmail.com>
