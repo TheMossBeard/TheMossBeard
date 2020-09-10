@@ -4,6 +4,6 @@ Senior at Oregon Institute of Technology working towards a B.S. in Computer Soft
 Working/Internship at Edstaub & Son's Petroleum in Klamath Falls, Oregon. 
 
 #### :feelsgood: Currently Working On
-Spelling blocks, Android application using Monogame framework. Educational "game" targeting children between ages 3 - 8.
+Spelling Blocks, Android application using Monogame framework. Educational "game" targeting children between ages 3 - 8.
 
 Personal website using Vue.js, Node.js, MongoDB
